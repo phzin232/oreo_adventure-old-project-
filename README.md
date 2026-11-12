@@ -1,10 +1,10 @@
 
 
-<span style= "color: cyan;font-size:25px"> **Oreo Adventure** (*Projeto Antigo - Unity*)</span>
+ # **Oreo Adventure** (*Projeto Antigo - Unity*)
 
----
 
-<span style= "color: orange;font-size:20px"> **Um projeto feito por volta de 2021**</span>
+
+## *Um projeto feito por volta de 2021**
 
 Este foi um dos meus primeiros projetos entrando no mundo da programação, feito antes de eu dar uma pausa nos estudos por motivos pessoais. O código inteiro aqui está no básico, pois eu não sabia nem usar Git na época.
 
