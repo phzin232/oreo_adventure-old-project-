@@ -1,6 +1,6 @@
 ﻿<Solution>
   <Project Path="GameJoltEditor.csproj" />
   <Project Path="GameJoltRuntime.csproj" />
-  <Project Path="GameJoltDemos.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="GameJoltDemos.csproj" />
 </Solution>
